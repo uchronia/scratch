@@ -1,1 +1,3 @@
 Created a plain text file (via the file extension .txt) at the root level of the uchronia/scratch repo.
+
+This is the first new file checked into the uchronia/scratch repo while learning GitHub from Episode 1:1 of https://tinyurl.com/GitHubForPoets
