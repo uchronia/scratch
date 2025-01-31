@@ -3,3 +3,15 @@ Created a plain text file (via the file extension .txt) at the root level of the
 Edit #3: Just adding some additional text following the initial commit above, but preceding the second commit below.
 
 This is the first new file checked into the uchronia/scratch repo while learning GitHub from Episode 1:1 of https://tinyurl.com/GitHubForPoets
+
+POEM: The Rainbow and the Unicorn
+
+Purple
+Pink
+Orange
+Blue
+Green
+Unicorn
+Yellow
+Red
+These are the colors of the rainbow and the unicorn.
