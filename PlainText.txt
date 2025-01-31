@@ -14,5 +14,6 @@ Green
 Indigo
 Unicorn
 Yellow
+Azure
 Red
 These are the colors of the rainbow and the unicorn and the Pony.
