@@ -4,7 +4,7 @@ Edit #3: Just adding some additional text following the initial commit above, bu
 
 This is the first new file checked into the uchronia/scratch repo while learning GitHub from Episode 1:1 of https://tinyurl.com/GitHubForPoets
 
-POEM: The Rainbow and the Unicorn
+POEM: The Rainbow and the Unicorn and the Pony.
 
 Purple
 Pink
@@ -15,4 +15,4 @@ Indigo
 Unicorn
 Yellow
 Red
-These are the colors of the rainbow and the unicorn.
+These are the colors of the rainbow and the unicorn and the Pony.
